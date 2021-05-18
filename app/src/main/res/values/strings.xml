@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlmacenamientoSP</string>
+    <string name="checkbox">com.example.almacenamientosp.checkbox</string>
+    <string name="name">com.example.almacenamientosp.usuario</string>
+    <string name="password">com.example.almacenamientosp.clave</string>
+
+    <string name="font_size">com.example.almacenamientosp.letra_tamanio</string>
+    <string name="font_family">com.example.almacenamientosp.letra_fuente</string>
+    <string name="app_color_primary_dark">com.example.almacenamientosp.app_color_primary_dark</string>
+    <string name="app_color_primary">com.example.almacenamientosp.app_color_primary</string>
+    <string name="app_color_background">com.example.almacenamientosp.app_color_background</string>
+</resources>
